@@ -7,4 +7,4 @@
 이제는 과목에 관계없이 부족한 부분을 채워갑시다.
 
 ## 목록
-#hi https://github.com/pjw960316/BridgeTheGap/issues/1
+https://github.com/pjw960316/BridgeTheGap/issues/1
