@@ -1,4 +1,4 @@
-# Bridge The Gap
+# Bridge The Gap (부족한 부분을 채우자!)
 ![image](https://user-images.githubusercontent.com/55792986/163919388-98e94276-e9ab-4f29-99a0-12731ae56f43.png)
 
 ## 개요
