@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2F4BBF12-344E-499C-B487-946228016A68}</ProjectGuid>
+    <ProjectGuid>{40D63CC9-2000-404B-A944-43655342875F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>C_Shart_Practice</RootNamespace>
-    <AssemblyName>C Shart Practice</AssemblyName>
+    <RootNamespace>C_Sharp_Study</RootNamespace>
+    <AssemblyName>C Sharp Study</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

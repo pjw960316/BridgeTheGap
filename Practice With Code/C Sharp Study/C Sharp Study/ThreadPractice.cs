@@ -6,7 +6,7 @@ using System.Security.Permissions;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace C_Shart_Practice
+namespace C_Sharp_Practice
 {
     class ThreadPractice
     {
