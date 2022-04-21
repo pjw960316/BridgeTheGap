@@ -1,7 +1,0 @@
-C:\Users\pjw96\OneDrive\바탕 화면\FreeStudy\Practice With Code\C Sharp Practice\C Shart Practice\bin\Debug\C Shart Practice.exe.config
-C:\Users\pjw96\OneDrive\바탕 화면\FreeStudy\Practice With Code\C Sharp Practice\C Shart Practice\bin\Debug\C Shart Practice.exe
-C:\Users\pjw96\OneDrive\바탕 화면\FreeStudy\Practice With Code\C Sharp Practice\C Shart Practice\bin\Debug\C Shart Practice.pdb
-C:\Users\pjw96\OneDrive\바탕 화면\FreeStudy\Practice With Code\C Sharp Practice\C Shart Practice\obj\Debug\C Shart Practice.csproj.AssemblyReference.cache
-C:\Users\pjw96\OneDrive\바탕 화면\FreeStudy\Practice With Code\C Sharp Practice\C Shart Practice\obj\Debug\C Shart Practice.csproj.CoreCompileInputs.cache
-C:\Users\pjw96\OneDrive\바탕 화면\FreeStudy\Practice With Code\C Sharp Practice\C Shart Practice\obj\Debug\C Shart Practice.exe
-C:\Users\pjw96\OneDrive\바탕 화면\FreeStudy\Practice With Code\C Sharp Practice\C Shart Practice\obj\Debug\C Shart Practice.pdb
