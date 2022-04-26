@@ -53,8 +53,10 @@
     <UnityVersion>2020.3.21f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\PracticeDelegate.cs" />
     <Compile Include="Assets\Scripts\Event.cs" />
+    <Compile Include="Assets\Scripts\PracticeDelegate.cs" />
+    <Compile Include="Assets\Scripts\DelegateParameter.cs" />
+    <Compile Include="Assets\Scripts\ThreadPoolPractice.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
