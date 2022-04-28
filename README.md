@@ -7,7 +7,6 @@
 이제는 과목에 관계없이 부족한 부분을 채워갑시다.
 
 ## 목록
-<img src="https://img.shields.io/badge/Design Pattern-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 - [x] 델리게이트 실전 연습
 - [ ] 이벤트
 - [ ] new와 malloc의 차이
