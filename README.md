@@ -10,11 +10,13 @@
 ## 목록
 - [x] 델리게이트 실전 연습
 - [ ] 이벤트
-- [ ] new와 malloc의 차이
 - [ ] 동기화 범위와 락
 - [ ] 패키징
 - [x] 클래스 멤버 변수 선언위치와 초기화 구분 (Awake)
-- [ ] 코루틴(동기) vs thread(비동기)
+- [x] 코루틴(동기) vs thread(비동기)
+- [ ] Task vs Thread
 - [ ] 게임 디자인 패턴
 - [ ] packing , unpacking
 - [ ] boxing , unboxing
+- [x] '실용주의 프로그래머' 읽기
+- [ ] '객체지향의 사실과 오해' 읽기
