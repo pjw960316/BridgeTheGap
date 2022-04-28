@@ -56,9 +56,10 @@
     <Compile Include="Assets\Scripts\Event.cs" />
     <Compile Include="Assets\Scripts\DelegateParameter.cs" />
     <Compile Include="Assets\Scripts\PracticeDelegate.cs" />
-    <Compile Include="Assets\Scripts\ThreadPoolPractice.cs" />
-    <Compile Include="Assets\Scripts\ActionPractice.cs" />
     <Compile Include="Assets\Scripts\TaskPractice.cs" />
+    <Compile Include="Assets\Scripts\ActionPractice.cs" />
+    <Compile Include="Assets\Scripts\ThreadPoolPractice.cs" />
+    <Compile Include="Assets\Scripts\Chapter2.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
