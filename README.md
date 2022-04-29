@@ -18,5 +18,6 @@
 - [ ] 게임 디자인 패턴
 - [ ] packing , unpacking
 - [ ] boxing , unboxing
+- [ ] 하나의 인덱스에 3개 이상의 데이터를 저장하는 자료구조 -> struct | class
 - [x] '실용주의 프로그래머' 읽기
 - [ ] '객체지향의 사실과 오해' 읽기
