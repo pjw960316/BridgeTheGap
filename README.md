@@ -14,10 +14,10 @@
 - [ ] 패키징
 - [x] 클래스 멤버 변수 선언위치와 초기화 구분 (Awake)
 - [x] 코루틴(동기) vs thread(비동기)
-- [ ] Task vs Thread
+- [x] Task vs Thread
 - [ ] 게임 디자인 패턴
-- [ ] packing , unpacking
-- [ ] boxing , unboxing
-- [ ] 하나의 인덱스에 3개 이상의 데이터를 저장하는 자료구조 -> struct | class
+- [ ] packing , boxing
+- [ ] task , async , await
+- [x] 하나의 인덱스에 3개 이상의 데이터를 저장하는 자료구조 -> struct | class
 - [x] '실용주의 프로그래머' 읽기
 - [ ] '객체지향의 사실과 오해' 읽기
