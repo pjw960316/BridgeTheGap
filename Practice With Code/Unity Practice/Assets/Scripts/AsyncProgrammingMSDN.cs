@@ -9,9 +9,9 @@ public class AsyncProgrammingMSDN : MonoBehaviour
 {
     private void Start()
     {
-        Chef.DoExampleOne();
+        //Chef.DoExampleOne();
         //Chef.DoExampleTwo();
-        //Chef.DoExampleThree();
+        Chef.DoExampleThree();
     }
     
 }
@@ -26,19 +26,26 @@ public static class Chef
         MakeToast2();
         PourJuice();
     }
+
     public static void DoExampleTwo()
     {
         Task task1 = Task.Run(PourCoffee);
         Task task2 = Task.Run(FryBacon);
         Task task3 = Task.Run(MakeToast);
+        Task task4 = Task.Run(MakeToast2);
+        Task task5 = Task.Run(PourJuice);
     }
 
     public static async void DoExampleThree()
     {
         Task task1 = Task.Run(PourCoffee);
         await task1;
+
         Task task2 = Task.Run(FryBacon);
         Task task3 = Task.Run(MakeToast);
+        await task3;
+        Task task4 = Task.Run(MakeToast2);
+        Task task5 = Task.Run(PourJuice);
     }
     public static void PourCoffee()
     {

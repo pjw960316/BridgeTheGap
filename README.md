@@ -17,7 +17,7 @@
 - [x] Task vs Thread
 - [ ] 게임 디자인 패턴 (강의와 책을 같이 읽을 것이기 때문에 강의를 시작하면 세부적으로 분할해서 목록적기)
 - [ ] packing , boxing
-- [ ] task , async , await
+- [x] task , async , await
 - [x] 하나의 인덱스에 3개 이상의 데이터를 저장하는 자료구조 -> struct | class
 - [x] '실용주의 프로그래머' 읽기
 - [ ] '객체지향의 사실과 오해' 읽기
