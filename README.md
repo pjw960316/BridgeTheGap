@@ -7,7 +7,7 @@
 그런 것들이 쌓이다보니 실력의 구멍이 점점 많아지게 되었습니다. \
 이제는 과목에 관계없이 부족한 부분을 채워갑시다.
 
-![image](https://img.shields.io/github/issues/pjw960316/BridgeTheGap)
+![image](https://img.shields.io/badge/C%23-C%23-purple)
 ## 공부 목록
 - [x] 델리게이트 실전 연습
 - [x] 이벤트 , EventHandler Class , Why use
