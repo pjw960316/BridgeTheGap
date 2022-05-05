@@ -8,7 +8,6 @@
 
 <img alt="C#" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
-
 ## 공부 목록
 - [x] 델리게이트 실전 연습
 - [x] 이벤트 , EventHandler Class , Why use
