@@ -1,4 +1,5 @@
 # Bridge The Gap (부족한 부분을 채우자!)
+## 2022/04/05 ~ 
 ![image](https://user-images.githubusercontent.com/55792986/166925183-320a7318-db97-4a87-9caf-89fc5ff90e89.png)
 
 ## 개요
