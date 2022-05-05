@@ -7,6 +7,7 @@
 그런 것들이 쌓이다보니 실력의 구멍이 점점 많아지게 되었습니다. \
 이제는 과목에 관계없이 부족한 부분을 채워갑시다.
 
+
 ## 공부 목록
 ![image](https://img.shields.io/badge/C%23-%20%EB%B9%84%EB%8F%99%EA%B8%B0-purple) 
 ![image](https://img.shields.io/badge/Book-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-red)
@@ -24,6 +25,7 @@
 - [x] 하나의 인덱스에 3개 이상의 데이터를 저장하는 자료구조 -> struct | class
 - [x] '실용주의 프로그래머' 읽기
 - [ ] '객체지향의 사실과 오해' 읽기
+
 
 ## 의문점 목록
 - [ ] Delegate가 복수의 method 주소를 저장할 수 있는 원리
