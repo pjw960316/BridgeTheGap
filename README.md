@@ -1,5 +1,4 @@
 # Bridge The Gap (부족한 부분을 채우자!)
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 ## 개요
 학부를 졸업하고, 인턴십을 마치고 본인의 부족한 역량들을 많이 깨닫게 되었습니다. \
@@ -7,9 +6,8 @@
 그런 것들이 쌓이다보니 실력의 구멍이 점점 많아지게 되었습니다. \
 이제는 과목에 관계없이 부족한 부분을 채워갑시다.
 
-
-## 공부 목록
 <img alt="C#" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+## 공부 목록
 - [x] 델리게이트 실전 연습
 - [x] 이벤트 , EventHandler Class , Why use
 - [ ] 동기화 범위와 락
