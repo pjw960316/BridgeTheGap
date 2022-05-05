@@ -1,11 +1,18 @@
 # Bridge The Gap (부족한 부분을 채우자!)
 ![image](https://user-images.githubusercontent.com/55792986/163919388-98e94276-e9ab-4f29-99a0-12731ae56f43.png)
 
-! ## 개요
+## 개요
 학부를 졸업하고, 인턴십을 마치고 본인의 부족한 역량들을 많이 깨닫게 되었습니다. \
 스스로를 돌아보니 어려운 개념을 미루고 공부하지 않은 적이 많았습니다. \
 그런 것들이 쌓이다보니 실력의 구멍이 점점 많아지게 되었습니다. \
 이제는 과목에 관계없이 부족한 부분을 채워갑시다.
+<span style="color:red">
+
+빨강 글씨
+
+Red Font
+
+</span>
 <span style="color:red">red</span>
 
 ## 공부 목록
