@@ -9,6 +9,7 @@
 
 
 ## 공부 목록
+https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
 - [x] 델리게이트 실전 연습
 - [x] 이벤트 , EventHandler Class , Why use
 - [ ] 동기화 범위와 락
