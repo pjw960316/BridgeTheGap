@@ -6,7 +6,7 @@
 그런 것들이 쌓이다보니 실력의 구멍이 점점 많아지게 되었습니다. \
 이제는 과목에 관계없이 부족한 부분을 채워갑시다.
 
-https://img.shields.io/badge/c%23-c%23-green 
+<img alt="Python" src ="https://https://img.shields.io/badge/c%23-c%23-green/>
 ## 공부 목록
 - [x] 델리게이트 실전 연습
 - [x] 이벤트 , EventHandler Class , Why use
