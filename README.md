@@ -9,7 +9,7 @@
 
 
 ## 공부 목록
-![image](https://img.shields.io/badge/C%23-C%23-purple) \
+![image](https://img.shields.io/badge/C%23-C%23-purple) 
 - [x] 델리게이트 실전 연습
 - [x] 이벤트 , EventHandler Class , Why use
 - [ ] 동기화 범위와 락
