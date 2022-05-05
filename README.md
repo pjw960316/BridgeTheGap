@@ -1,5 +1,5 @@
 # Bridge The Gap (부족한 부분을 채우자!)
-![image](https://user-images.githubusercontent.com/55792986/163919388-98e94276-e9ab-4f29-99a0-12731ae56f43.png)
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 ## 개요
 학부를 졸업하고, 인턴십을 마치고 본인의 부족한 역량들을 많이 깨닫게 되었습니다. \
