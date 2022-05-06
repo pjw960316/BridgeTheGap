@@ -53,18 +53,19 @@
     <UnityVersion>2020.3.21f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\MakeEventHandler.cs" />
-    <Compile Include="Assets\Scripts\MakeEventNotUsingEventHandler.cs" />
-    <Compile Include="Assets\Scripts\AsyncAwaitPractice.cs" />
-    <Compile Include="Assets\Scripts\Chapter2.cs" />
-    <Compile Include="Assets\Scripts\EventHandlerPractice.cs" />
-    <Compile Include="Assets\Scripts\DelegateParameter.cs" />
-    <Compile Include="Assets\Scripts\PracticeDelegate.cs" />
-    <Compile Include="Assets\Scripts\TaskPractice.cs" />
-    <Compile Include="Assets\Scripts\AsyncProgrammingMSDN.cs" />
-    <Compile Include="Assets\Scripts\ActionPractice.cs" />
-    <Compile Include="Assets\Scripts\ThreadPoolPractice.cs" />
-    <Compile Include="Assets\Scripts\BoxingUnboxingPractice.cs" />
+    <Compile Include="Assets\Scripts\Practice_1\MakeEventHandler.cs" />
+    <Compile Include="Assets\Scripts\Practice_1\MakeEventNotUsingEventHandler.cs" />
+    <Compile Include="Assets\Scripts\Practice_1\AsyncAwaitPractice.cs" />
+    <Compile Include="Assets\Scripts\Practice_1\Chapter2.cs" />
+    <Compile Include="Assets\Scripts\Practice_1\EventHandlerPractice.cs" />
+    <Compile Include="Assets\Scripts\Practice_1\DelegateParameter.cs" />
+    <Compile Include="Assets\Scripts\Practice_1\PracticeDelegate.cs" />
+    <Compile Include="Assets\Scripts\Practice_1\BoxingUnboxingPractice.cs" />
+    <Compile Include="Assets\Scripts\Practice_1\TaskPractice.cs" />
+    <Compile Include="Assets\Scripts\Practice_1\AsyncProgrammingMSDN.cs" />
+    <Compile Include="Assets\Scripts\Practice_1\ActionPractice.cs" />
+    <Compile Include="Assets\Scripts\Practice_1\ThreadPoolPractice.cs" />
+    <Compile Include="Assets\Scripts\Practice_2\LolChampion.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
