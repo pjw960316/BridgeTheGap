@@ -1,0 +1,42 @@
+[
+    {
+        "name" : "oren",
+        "ad" : 69,
+        "ap" : 0,
+        "health" : 590,
+        "armor" : 33,
+        "magic_resistance" : 32.1
+    },
+    {
+        "name" : "graves",
+        "ad" : 68,
+        "ap" : 0,
+        "health" : 555,
+        "armor" : 33,
+        "magic_resistance" : 32
+    },
+    {
+        "name" : "talon",
+        "ad" : 68,
+        "ap" : 0,
+        "health" : 588,
+        "armor" : 30,
+        "magic_resistance" : 39
+    },
+    {
+        "name" : "ezreal",
+        "ad" : 60,
+        "ap" : 10,
+        "health" : 530,
+        "armor" : 24,
+        "magic_resistance" : 30
+    },
+    {
+        "name" : "thresh",
+        "ad" : 56,
+        "ap" : 0,
+        "health" : 530,
+        "armor" : 28,
+        "magic_resistance" : 30
+    }
+]
