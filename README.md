@@ -12,6 +12,7 @@
 ## 공부 목록
 ![image](https://img.shields.io/badge/C%23-%20%EB%B9%84%EB%8F%99%EA%B8%B0-purple) 
 ![image](https://img.shields.io/badge/Book-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-red)
+![image](https://img.shields.io/badge/unity-%EB%8B%A4%ED%98%95%EC%84%B1-green)
 - [x] 델리게이트 실전 연습
 - [x] 이벤트 , EventHandler Class , Why use
 - [ ] 동기화 범위와 락
