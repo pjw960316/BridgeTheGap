@@ -65,7 +65,9 @@
     <Compile Include="Assets\Scripts\Practice_1\AsyncProgrammingMSDN.cs" />
     <Compile Include="Assets\Scripts\Practice_1\ActionPractice.cs" />
     <Compile Include="Assets\Scripts\Practice_1\ThreadPoolPractice.cs" />
-    <Compile Include="Assets\Scripts\Practice_2\LolChampion.cs" />
+    <Compile Include="Assets\Scripts\Practice_2\Enemy.cs" />
+    <Compile Include="Assets\Scripts\Practice_2\ThiefEnemyChild.cs" />
+    <Compile Include="Assets\Scripts\Practice_2\NoBehaviour.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
