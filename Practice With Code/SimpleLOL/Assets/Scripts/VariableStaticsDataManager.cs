@@ -55,11 +55,11 @@ public class VariableStaticsDataManager : MonoBehaviour
             }
             foreach(var i in variable_statics_dictionary)
             {
-                Debug.Log(i.Key);
-                foreach(var j in i.Value)
-                {
-                    Debug.Log(j);
-                }
+                //Debug.Log(i.Key);
+                //foreach(var j in i.Value)
+                //{
+                //    Debug.Log(j);
+                //}
             }
 
             return 1;

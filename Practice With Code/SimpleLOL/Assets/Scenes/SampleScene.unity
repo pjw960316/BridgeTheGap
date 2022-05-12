@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 91699675}
   - component: {fileID: 91699674}
   m_Layer: 0
-  m_Name: Mid
+  m_Name: Talon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -242,7 +242,7 @@ GameObject:
   m_Component:
   - component: {fileID: 504104272}
   m_Layer: 0
-  m_Name: Support
+  m_Name: Thresh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -408,7 +408,7 @@ GameObject:
   m_Component:
   - component: {fileID: 898744838}
   m_Layer: 0
-  m_Name: AD
+  m_Name: Ezreal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -521,7 +521,7 @@ GameObject:
   m_Component:
   - component: {fileID: 963368015}
   m_Layer: 0
-  m_Name: Top
+  m_Name: Oren
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -593,8 +593,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1606858676}
+  - component: {fileID: 1606858677}
   m_Layer: 0
-  m_Name: Jungle
+  m_Name: Graves
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -614,3 +615,15 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1606858677
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1606858675}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0a79bb3fd72acb4e88cb9d193c1ac08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
